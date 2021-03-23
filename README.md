@@ -54,8 +54,6 @@ Personal Tips &amp; Tricks for better workflow.
 
 ## NPM
 
-## Deploy
-
 ## HTML
 
 ## Deploy
