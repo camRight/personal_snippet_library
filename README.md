@@ -13,7 +13,7 @@ Personal Tips &amp; Tricks for better workflow.
 * [NPM](#npm)
 * [Live Deployment & Repo Links](#deploy)
 * [Resources](#resources)
-
+* [VSCode](#vscode)
 
 ## React
 
@@ -60,4 +60,6 @@ Personal Tips &amp; Tricks for better workflow.
 
 ## Deploy
 
-# Resources
+## Resources
+
+## VSCode
