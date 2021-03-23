@@ -1,6 +1,14 @@
 # personal_snippet_library
 Personal Tips &amp; Tricks for better workflow. 
 
+## Table of Contents
+
+* [React](#react)
+* [CSS](#css)
+* [Bootstrap](#bootstrap)
+* [Javascript](#javascript)
+* [HTML](#html)
+* [Live Deployment & Repo Links](#links)
 
 
 ## React
