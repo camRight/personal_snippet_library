@@ -11,7 +11,7 @@ Personal Tips &amp; Tricks for better workflow.
 * [Express](#express)
 * [Node.js](#node.js)
 * [NPM](#npm)
-* [Live Deployment & Repo Links](#links)
+* [Live Deployment & Repo Links](#deploy)
 
 
 ## React
@@ -32,6 +32,16 @@ Personal Tips &amp; Tricks for better workflow.
 ## Bootstrap
 
 ## Javascript
+
+## HTML
+
+## Express
+
+## Node.js
+
+## NPM
+
+## Deploy
 
 ## HTML
 
