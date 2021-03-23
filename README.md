@@ -35,6 +35,8 @@ Personal Tips &amp; Tricks for better workflow.
 
 ## HTML
 
+- VSCode Boilerplate `!` for intellisense boilerplate page.
+
 ## Express
 
 ## Node.js
