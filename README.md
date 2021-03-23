@@ -12,6 +12,7 @@ Personal Tips &amp; Tricks for better workflow.
 * [Node.js](#node.js)
 * [NPM](#npm)
 * [Live Deployment & Repo Links](#deploy)
+* [Resources](#resources)
 
 
 ## React
@@ -54,3 +55,5 @@ Personal Tips &amp; Tricks for better workflow.
 ## HTML
 
 ## Deploy
+
+# Resources
