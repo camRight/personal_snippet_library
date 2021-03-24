@@ -18,7 +18,7 @@ Personal Tips &amp; Tricks for better workflow.
 * [CLI](#cli)
 * [Linux](#linux)
 * [Git](#git)
-
+* [mySQL](##mysql)
 
 
 ## React
