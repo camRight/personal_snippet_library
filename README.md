@@ -17,6 +17,8 @@ Personal Tips &amp; Tricks for better workflow.
 * [Python](#python)
 * [CLI](#cli)
 * [Linux](#linux)
+* [Git](#git)
+
 
 
 ## React
