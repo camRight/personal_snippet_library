@@ -14,6 +14,10 @@ Personal Tips &amp; Tricks for better workflow.
 * [Live Deployment & Repo Links](#deploy)
 * [Resources](#resources)
 * [VSCode](#vscode)
+* [Python](#python)
+* [CLI](#cli)
+* [Linux](#linux)
+
 
 ## React
 
