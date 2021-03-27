@@ -73,3 +73,7 @@ https://www.bootstrapcdn.com/
 ## Resources
 
 ## VSCode
+
+## Python
+
+## CLI
