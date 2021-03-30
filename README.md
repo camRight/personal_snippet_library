@@ -58,7 +58,7 @@ https://www.bootstrapcdn.com/
 
 ## HTML
 
-- VSCode Boilerplate `!` for intellisense boilerplate page.
+- VSCode Boilerplate `!` for intellisense boilerplate HTML page.
 
 ## Express
 
